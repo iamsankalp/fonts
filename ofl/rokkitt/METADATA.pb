@@ -18,7 +18,7 @@ fonts {
   weight: 200
   filename: "Rokkitt-ExtraLight.ttf"
   post_script_name: "Rokkitt-ExtraLight"
-  full_name: "Rokkitt Extra Light"
+  full_name: "Rokkitt ExtraLight"
   copyright: "Copyright 2016 The Rokkit Project Authors (contact@sansoxygen.com)"
 }
 fonts {
@@ -54,7 +54,7 @@ fonts {
   weight: 600
   filename: "Rokkitt-SemiBold.ttf"
   post_script_name: "Rokkitt-SemiBold"
-  full_name: "Rokkitt Semi Bold"
+  full_name: "Rokkitt SemiBold"
   copyright: "Copyright 2016 The Rokkit Project Authors (contact@sansoxygen.com)"
 }
 fonts {
@@ -72,7 +72,7 @@ fonts {
   weight: 800
   filename: "Rokkitt-ExtraBold.ttf"
   post_script_name: "Rokkitt-ExtraBold"
-  full_name: "Rokkitt Extra Bold"
+  full_name: "Rokkitt ExtraBold"
   copyright: "Copyright 2016 The Rokkit Project Authors (contact@sansoxygen.com)"
 }
 fonts {
