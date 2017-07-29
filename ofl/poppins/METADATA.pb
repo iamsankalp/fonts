@@ -10,7 +10,7 @@ fonts {
   filename: "Poppins-Light.ttf"
   post_script_name: "Poppins-Light"
   full_name: "Poppins Light"
-  copyright: "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
+  copyright: "Copyright 2014-2017 Indian Type Foundry (info@indiantypefoundry.com)"
 }
 fonts {
   name: "Poppins"
@@ -18,8 +18,8 @@ fonts {
   weight: 400
   filename: "Poppins-Regular.ttf"
   post_script_name: "Poppins-Regular"
-  full_name: "Poppins"
-  copyright: "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
+  full_name: "Poppins Regular"
+  copyright: "Copyright 2014-2017 Indian Type Foundry (info@indiantypefoundry.com)"
 }
 fonts {
   name: "Poppins"
@@ -28,7 +28,7 @@ fonts {
   filename: "Poppins-Medium.ttf"
   post_script_name: "Poppins-Medium"
   full_name: "Poppins Medium"
-  copyright: "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
+  copyright: "Copyright 2014-2017 Indian Type Foundry (info@indiantypefoundry.com)"
 }
 fonts {
   name: "Poppins"
@@ -37,7 +37,7 @@ fonts {
   filename: "Poppins-SemiBold.ttf"
   post_script_name: "Poppins-SemiBold"
   full_name: "Poppins SemiBold"
-  copyright: "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
+  copyright: "Copyright 2014-2017 Indian Type Foundry (info@indiantypefoundry.com)"
 }
 fonts {
   name: "Poppins"
@@ -46,9 +46,9 @@ fonts {
   filename: "Poppins-Bold.ttf"
   post_script_name: "Poppins-Bold"
   full_name: "Poppins Bold"
-  copyright: "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
+  copyright: "Copyright 2014-2017 Indian Type Foundry (info@indiantypefoundry.com)"
 }
-subsets: "menu"
 subsets: "devanagari"
 subsets: "latin"
 subsets: "latin-ext"
+subsets: "menu"

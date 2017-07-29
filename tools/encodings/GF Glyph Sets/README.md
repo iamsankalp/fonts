@@ -10,7 +10,7 @@ Three sets are available in this directory: **Plus, Pro and Expert.**
 
 #### Glyphs App Tip
 
-Inside [**filter lists**](filter lists) are text files with a list of glyphs for each set. 
+Inside **[filter lists](./filter\ lists)** are text files with a list of glyphs for each set. 
 Open Glyphs and in the left bottom sidebar, create a new list filter, and paste the contents of these TXT files to check if your fonts supports these characters. 
 A ✓ will indicate you are all set. 
 Otherwise **ctrl + click** on the numbers to generate missing glyphs. 
@@ -80,7 +80,7 @@ Read more about this in the [GlyphsApp Ligated Dutch IJ Tutorial](https://www.gl
 
 ### GF Latin Pro (+145 for 713 glyphs total + 17 optional .case)
 
-- Math symbols and Units of Measure (∆ Ω π ℓ ℮ ∞ ∂ ∫ √ ∑ ∏ ◊ ∅)
+- Math symbols and Units of Measure (∆ Ω π ℓ ℮ ∞ ∂ ∫ √ ∑ ∏ ◊ ∅)
 - Latin General Use Extensions (U+1E08 to U+1EC9)
 - Superiors and Inferiors (⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉)
 - Scientific Inferiors as *".subs"* (₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉)
@@ -120,14 +120,13 @@ Structure and Hierarchy of Glyph Sets for Cyrillic:
 1. **Core** is the existing default set, a Basic Cyrillic
 3. **Plus** includes added language coverage for Slavic, Non-Slavic, and Uralic languages
 3. **Pro** for Headline typefaces, with language support more Non-Slavic languages
-4. **Expert** for text and workhorse typefaces, includes Small Caps
-5. **Historic** with support for historic Cyrillic
+4. **Historic** provides support for historic Cyrillic, Old Church Slavonic Texts
 
-### GF Cyrillic Core
+### GF Cyrillic Core (not used)
 
 **Supports the following Cyrillic languages:** Balkar, Belarusian (Cyrillic), Bosnian (Cyrillic), Bulgarian, Croatian (Cyrillic), Erzya, Karachay, Kumyk, Macedonian, Moksha, Montenigrin, Nanai, Nogai, Russian, Rusyn, Serbian (Cyrillic), Ukrainian, West Polesian
 
-### GF Cyrillic Plus (184 + 40 localized variants for 228 total)
+### GF Cyrillic Plus (184 Unicode characters in 277 glyphs including Small Caps + 40 localized variants: 317 total)
 
 **Supports the following 90 Cyrillic languages:** 
 Abaza,
@@ -225,7 +224,7 @@ Includes currencies: ₮, ₴, ₸.
 
 The ruble sign (₽ U+20BD) is not included, since it is already present in the Latin Plus set.
 
-### GF Cyrillic Pro (+56 glyphs for 284 glyphs total)
+### GF Cyrillic Pro (+82 glyphs for 399 glyphs total)
 
 **Additional characters in this set provide support for the following 18 languages:** 
 Abkhaz,
@@ -362,7 +361,7 @@ Yukaghir,
 Yupik.
 
 
-### GF Cyrillic Historical (Optional 37 glyphs )
+### GF Cyrillic Historic ( 37 glyphs )
 
 Provides support for Pre-Petrine Old Church Slavonic Texts.
 
