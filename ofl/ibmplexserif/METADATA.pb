@@ -1,5 +1,5 @@
 name: "IBM Plex Serif"
-designer: "Bold Monday"
+designer: "Mike Abbink, Bold Monday"
 license: "OFL"
 category: "SERIF"
 date_added: "2018-03-12"
@@ -109,6 +109,15 @@ fonts {
   filename: "IBMPlexSerif-SemiBoldItalic.ttf"
   post_script_name: "IBMPlexSerif-SemiBoldItalic"
   full_name: "IBM Plex Serif SemiBold Italic"
+  copyright: "Copyright 2018 IBM Corp. All rights reserved."
+}
+fonts {
+  name: "IBM Plex Serif"
+  style: "normal"
+  weight: 700
+  filename: "IBMPlexSerif-Bold.ttf"
+  post_script_name: "IBMPlexSerif-Bold"
+  full_name: "IBM Plex Serif Bold"
   copyright: "Copyright 2018 IBM Corp. All rights reserved."
 }
 fonts {
